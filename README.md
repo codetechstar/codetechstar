@@ -205,7 +205,7 @@
  
 </table>
 </p>
-
+<br></br>
 <h1 align="center" style="font-size:36px; font-weight:500;">
   👋 Thank you for visiting my Github! 👋
 </h1>
