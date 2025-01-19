@@ -134,8 +134,8 @@
       <br>PostgreSQL
     </td>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg" width="45" height="45" alt="MySQL" />
-      <br>MySQL
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GraphQL-Dark.svg" width="45" height="45" alt="MySQL" />
+      <br>GraphQL
     </td>
     <td align="center" width="90">
       <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" alt="MongoDB" width="55" height="55" />
