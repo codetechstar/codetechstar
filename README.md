@@ -14,20 +14,6 @@
 - Skilled in reducing gas fees, improving DApp performance, and implementing robust solutions to enhance security and efficiency.
 - Passionate about driving innovation and leveraging emerging technologies to deliver impactful solutions in the blockchain space.
 
-  <br></br>
- 
-<p align="center">
-    <img title="My Github Streak Check" alt="Abhijit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=codetechstar&theme=black-ice&hide_border=true&stroke=0000&background=060A0C0"/>
-</p>
-<p align="center">
-    <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=codetechstar&show_icon=true&hide_border=true&theme=react&bg_color=0D1117&include_all_commits&count_private=true" height="150"/>
-    <img alt="My most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codetechstar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="150"/> 
-</p>
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app?username=codemedic213515&column=9&row=2&margin-w=15&padding=10&show_icons=true&line_height=30&theme=algolia" height="150" alt="codetechstar graph"  />
-</p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
